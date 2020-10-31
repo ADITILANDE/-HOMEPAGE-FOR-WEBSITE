@@ -1,0 +1,200 @@
+
+div {
+  background-color: #CDCDCF;
+   
+  width: 1000px;
+  padding: 10px;
+  border: 1px solid gray;
+  margin: 10;
+}
+
+
+
+
+.single-portfolio .portfolio-head {
+    position: relative;
+    z-index: 66;
+}
+	
+	
+	.single-portfolio img {
+    display: block;
+    width: 30%;
+    z-index: 3;
+ 
+	marging-left:20px;
+	
+}
+
+	
+	
+	
+	
+	.single-portfolio .more {
+    height: 30px;
+    width: 30px;
+    opacity: 0;
+	 line-height: 30px;
+    text-align: center;
+    color: #fff;
+    background: #F3A712;
+    display: block;
+    position: absolute;
+    top: 40%;
+    right: 20px;
+    bottom: 0;
+    font-size: 17px;
+    border-radius: 10%;
+    box-shadow: 0px 5px 5px #00000024;
+    z-index: 303;
+    left: 50%;
+    margin-left: 55px;
+    margin-top: 25px;
+    visibility: hidden;
+	}
+	
+	
+	
+	.single-portfolio .portfolio-content {
+    position: relative;
+    top: -30px;
+    text-align: left;
+    width: 120%;
+    padding: 10px 12px;
+    border-left: 3px solid #179e66;
+    background: #fff;
+    left: 50px;
+    display: inline-block;
+    z-index: 2222;
+    margin-bottom: 10px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+ <div class="column">
+   <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+  <div class="w3-display-left" style="white-space:nowrap;">
+    <span class="w3-Left w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity"> <span class="w3-hide-small">DOLITTLE</span> TECHNOLOGY</span>
+	</div>
+	
+	
+								 <div class="hero-text"> 
+                       <h4><b>We are always ready to help you</b></h4>
+ 
+                       <h1><b>Our Creative Designer Waiting for Projects</b></h1>
+                                </div>
+						
+										
+											<div class="pr">
+											 <p> we provide ghjfghggcbv bjghfghd nmhfghdf nbhjfh</br>
+											   vhgfthgdgd ghhjjgy gjyy hujhgtyj hjhgj bgjhugyuurfy</p>
+										</div></br>
+						 				
+	<div class="mid-button">
+	<a href="contact.html" class="bizwheel-btn theme-1 effect">WORK WITH US</a></div>
+	<div class="mid-button">
+	<a href="portfolio.html" class="bizwheel-btn theme-2 effect">VIEW OUR SERVICES</a>
+										</div>
+	
+	
+</div>
+										
+</div>
+
+
+
+
+.portfolio section-space{
+width:100%;
+	padding:30px;
+margin-top:20px;
+background:#F4F9FC;
+}
+.brand-top{
+float: left;
+    width: 50%;
+    text-align: left
+	}
+	
+.brand-title {
+    margin-bottom: 30px;
+    position: relative;
+    text-align: center;
+	 padding: 0;
+}
+.brand-bottom{
+float: left;
+    width: 50%;
+    text-align: left
+	text-align: center;
+	}
+	
+	.brandtext{
+	text-align: center;
+	width: 50%;
+	}
+	
+	
+	
+	 
+<div class="row">
+ <div class="column">
+   <div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+  <div class="w3-display-left" style="white-space:nowrap;">
+    <span class="w3-Left w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity"><span class="w3-hide-small">DOLITTLE</span> TECHNOLOGY</span>
+	</div>
+	
+	</br>
+		</br>
+			</br>
+				</br>
+					</br>
+						</br>
+							</br>
+								</br>
+								</br>
+								</br>
+								</br>
+					 <div class="hero-text"> 
+                       <h4><b>We are always ready to help you</b></h4>
+ 
+                       <h1><b>Our Creative Designer Waiting for Projects</b></h1>
+                                </div>
+						
+										
+											<div class="pr">
+											 <p> we provide ghjfghggcbv bjghfghd nmhfghdf nbhjfh</br>
+											   vhgfthgdgd ghhjjgy gjyy hujhgtyj hjhgj bgjhugygh </br>bnbmnmbnnjmjhjj
+											   nnjnmbnmnmbmbmnbnmvx  hbhjghjghghgbhjgnjh bhjghj gb
+											   jhhjkhm bjgjh</p>
+										</div></br>
+						 				
+	<div class="mid-button">
+	<a href="contact.html" class="bizwheel-btn theme-1 effect">WORK WITH US</a></div>
+	<div class="mid-button">
+	<a href="portfolio.html" class="bizwheel-btn theme-2 effect">VIEW OUR SERVICES</a>
+										</div>
+	
+	
+</div>
+										
+</div>

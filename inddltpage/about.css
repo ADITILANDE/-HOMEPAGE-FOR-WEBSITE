@@ -1,0 +1,45 @@
+.hero-agency.home-main {
+    padding-top: 117px;
+}
+.container {
+    max-width: 1170px;
+}
+@media (min-width: 768px)
+.offset-md-1 {
+    margin-left: 8.333333%;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+@media (min-width: 768px)
+.col-md-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+}
+.hero-agency.hero-text {
+    z-index: 555;
+    position: relative;
+    text-align: center;
+}
+.hero-agency .hero-text h4 {
+    font-weight: 500;
+}
+.hero-agency .hero-text h1 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.hero-agency .hero-text h1 {
+    font-size: 55px;
+    color: #2E2751;
+    font-weight: 700;
+    line-height: 65px;
+}
+.hero-agency .hero-text h1 span {
+    color: #F3A712;
+}
